@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f38c37;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    
+    
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.produtos img {
+    width: 300px;
+    margin: 30px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+nav ul li :hover {
+    background-color: #202020;
+    
+}
+.links {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
